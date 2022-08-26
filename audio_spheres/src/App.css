@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #030015;
+    /*background-color: whitesmoke;*/
+}
+.App {
+    width: 100vw;
+    height: 100vh;
+}
